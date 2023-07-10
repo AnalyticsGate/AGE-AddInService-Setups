@@ -1,4 +1,4 @@
 ### AnalyticsGate AddInService
 
 *New Features*
-- New process management
+- New service for better functionality when using security software
